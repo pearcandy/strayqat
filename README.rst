@@ -1,5 +1,5 @@
 StrayQat
-########
+========
 
 A toolkit for quantum chemistry with quantum computer
 
