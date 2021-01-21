@@ -1,10 +1,10 @@
 StrayQat
-========
+########
 
 A toolkit for quantum chemistry with quantum computer
 
 Feature
-=======
+-------
 - Variational Quantum Eigensolver
    | **support Ansatz**
    | "Hardware Efficiency"
@@ -19,7 +19,7 @@ Feature
 
   
 Performance
-===========
+-----------
 - Grand state energy of H2 molecule for each distance between H atoms
    .. image:: ./img/demo_H2.png
     :scale: 40%
@@ -39,7 +39,7 @@ Performance
 
 
 Requirement
-===========
+-----------
 - scipy < 1.5.x
 - numpy > 1.19.x
 - qulacs
@@ -48,7 +48,7 @@ Requirement
 - openfermionpyscf
 
 Install
-=======
+-------
 
 to install EleQtron:
 
@@ -61,7 +61,7 @@ to install EleQtron:
 
     
 Uninstall
-=========
+---------
 
 .. code-block:: sh
 		
