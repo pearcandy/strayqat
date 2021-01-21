@@ -1,8 +1,5 @@
-.. image:: ./img/eleqtron_logo.png
-   :scale: 40%
-   :height: 100px
-   :width: 200px
-   :align: left
+StrayQat
+========
 
 A toolkit for quantum chemistry with quantum computer
 
@@ -57,8 +54,8 @@ to install EleQtron:
 
 .. code-block:: sh
 		
-    git clone http://133.196.110.131:8888/nishida/eleqtron
-    cd eleqtron
+    git clone https://github.com/pearcandy/strayqat
+    cd strayqat
     python setup.py install
 
 
@@ -71,9 +68,3 @@ Uninstall
     python setup.py install --record file.txt  
     cat file.txt | xargs rm -rvf  
 
-Example
-=======
-
-* notebook_
-
-.. _notebook: http://133.196.110.131:8888/nishida/eleqtron/-/tree/master/test
