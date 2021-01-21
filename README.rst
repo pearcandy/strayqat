@@ -1,9 +1,9 @@
 ========
-StrayQat
+Strayqat
 ========
 A toolkit for quantum chemistry with quantum computer
 
-Feature
+feature
 =======
 - Variational Quantum Eigensolver
    | **support Ansatz**
@@ -18,7 +18,7 @@ Feature
    | `qulacs <https://github.com/qulacs/qulacs>`_
 
   
-Performance
+performance
 ===========
 - Grand state energy of H2 molecule for each distance between H atoms
    .. image:: ./img/demo_H2.png
@@ -38,7 +38,7 @@ Performance
 
 
 
-Requirement
+requirement
 ===========
 - scipy < 1.5.x
 - numpy > 1.19.x
@@ -47,10 +47,10 @@ Requirement
 - openfermion
 - openfermionpyscf
 
-Install
+install
 =======
 
-to install EleQtron:
+to install strayqat:
 
 .. code-block:: sh
 		
@@ -60,7 +60,7 @@ to install EleQtron:
 
 
     
-Uninstall
+uninstall
 =========
 
 .. code-block:: sh
