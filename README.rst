@@ -1,7 +1,4 @@
-========
-StrayQat
-========
-.. image:: ./img/sq.png
+.. image:: ./img/logo.png
    :scale: 20%
    :height: 100px
    :width: 200px
