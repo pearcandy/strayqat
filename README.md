@@ -1,5 +1,5 @@
 
-![strayqat_logo](https://github.com/pearcandy/strayqat/tree/master/img/logo.png )
+![strayqat_logo](https://github.com/pearcandy/strayqat/blob/master/img/logo.png?raw=true)
 
 ## StrayQat
 
