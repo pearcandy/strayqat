@@ -42,7 +42,7 @@ Performance
 
 
 
-rRquirement
+Rquirement
 ===========
 - scipy < 1.5.x
 - numpy > 1.19.x
