@@ -8,7 +8,7 @@ A toolkit for quantum chemistry with quantum computer
 
 
 Key Features
------------
+--------
 - Variational Quantum Eigensolver
    | **support Ansatz**
    | "Hardware Efficiency"
@@ -23,7 +23,7 @@ Key Features
 
   
 Performance
------------
+---------
 - Grand state energy of H2 molecule for each distance between H atoms
    .. image:: ./img/demo_H2.png
     :scale: 40%
@@ -43,7 +43,7 @@ Performance
 
 
 Rquirement
-----------
+--------
 - scipy < 1.5.x
 - numpy > 1.19.x
 - qulacs
@@ -52,7 +52,7 @@ Rquirement
 - openfermionpyscf
 
 Install
-------
+--------
 
 to install strayqat:
 
