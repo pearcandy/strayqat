@@ -5,7 +5,7 @@
 
 StrayQat is a toolkit for quantum chemistry with quantum computer.
 
-StrayQat is licensed under the [MIT license](https://github.com/pearcandy/strayqat/blob/master/LICENSE).
+StrayQat is licensed under the [GNU lv3 license](https://github.com/pearcandy/strayqat/blob/master/LICENSE).
 
 ### Key Features
 - Variational Quantum Eigensolver
