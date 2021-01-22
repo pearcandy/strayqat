@@ -1,4 +1,13 @@
-========
+
+.. image:: ./img/sq.png
+   :scale: 40%
+   :height: 100px
+   :width: 200px
+   :align: left
+
+A toolkit for quantum computing
+
+
 StrayQat
 ========
 A toolkit for quantum chemistry with quantum computer
