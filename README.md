@@ -1,5 +1,6 @@
 
 ![strayqat_logo](https://github.com/pearcandy/strayqat/tree/master/img/logo.png )
+
 ## StrayQat
 
 StrayQat is a toolkit for quantum chemistry with quantum computer.
