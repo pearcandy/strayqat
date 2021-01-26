@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+src/strayqat/__doc__.py
+src/strayqat/__init__.py
+src/strayqat/__main__.py
+src/strayqat/ansatz.py
+src/strayqat/molecule.py
+src/strayqat/vqe.py
+src/strayqat.egg-info/PKG-INFO
+src/strayqat.egg-info/SOURCES.txt
+src/strayqat.egg-info/dependency_links.txt
+src/strayqat.egg-info/not-zip-safe
+src/strayqat.egg-info/requires.txt
+src/strayqat.egg-info/top_level.txt

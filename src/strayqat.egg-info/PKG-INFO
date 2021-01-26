@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: strayqat
+Version: 0.2.0
+Summary: Tools for quantum chemistry with quantum computer
+Home-page: https://github.com/pearcandy
+Author: PearCandy
+License: GNU lv3
+Description: README.md
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown

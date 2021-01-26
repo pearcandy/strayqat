@@ -10,6 +10,6 @@ __all__ = ['src']
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
-from .molecule import Main as Molcule
+from .molecule import Main as Molecule
 from .vqe import Main as Vqe
 from . import ansatz
