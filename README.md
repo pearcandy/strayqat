@@ -13,7 +13,7 @@ Tools for quantum chemistry with quantum computer.
 
 #### Requirement
 - scipy < 1.5.x
-- numpy > 1.19.x
+- numpy > 1.18.x
 - qulacs
 - pyscf
 - openfermion
@@ -21,13 +21,10 @@ Tools for quantum chemistry with quantum computer.
 
 #### Install
 ```
-git clone https://github.com/pearcandy/strayqat
-cd strayqat
-python setup.py install
+pip install https://github.com/pearcandy/strayqat
 ```
 
 #### Uninstall
 ```
-python setup.py install --record file.txt  
-cat file.txt | xargs rm -rvf
+pip uninstall strayqat
 ```

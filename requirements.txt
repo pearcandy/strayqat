@@ -1,0 +1,7 @@
+Qulacs==0.1.10.1
+numpy==1.18.5
+scipy==1.4.1
+openfermion==0.11.0
+openfermionpyscf==0.4
+pyscf==1.7.2
+
