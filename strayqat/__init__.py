@@ -14,6 +14,6 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 from . import src
 
 # Direct imports for convenience:
-from .src.molecule import Main as molecule
-from .src.vqe import Main as vqe
+from .src.molecule import Main as Molecule
+from .src.vqe import Main as Vqe
 from .src import ansatz
