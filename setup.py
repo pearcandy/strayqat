@@ -17,7 +17,7 @@ import re
 root_dir = path.abspath(path.dirname(__file__))
 
 setup(
-    name='eleqtron',
+    name='strayqat',
     version='0.2',
     description='A topological data analysis toolkit for material science',
     long_description='README.txt',
@@ -27,6 +27,6 @@ setup(
         'pyscf', 'openfermion', 'openfermionpyscf', 'scipy==1.4.1', 'qulacs'
     ],
     license='LICENSE.txt',
-    packages=['eleqtron', 'eleqtron.src'],
-    package_dir={'eleqtron': 'eleqtron'},
+    packages=['strayqat', 'strayqat.src'],
+    package_dir={'strayqat': 'strayqat'},
 )
