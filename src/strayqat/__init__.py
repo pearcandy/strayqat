@@ -1,12 +1,11 @@
-__copyright__ = 'Copyright(c) 2020 Toshiba Corporation'
+__copyright__ = 'Copyright(c) 2020 PearCandy'
 __version__ = '0.1'
 __lisence__ = 'GPLv3'
-__author__ = 'Yasutaka Nishida'
-__author_email__ = 'yasutaka.nishida@toshiba.co.jp'
+__author__ = 'PearCandy'
+__author_email__ = 'y.nishi1980@gmail.com'
 __all__ = ['src']
 
-# Copyright (c) 2020, EleQtron authors (Y. Nishida).
-# Licensed under the MIT license (see LICENSE.txt)
+# Licensed under the GPLv3
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 

@@ -2,7 +2,7 @@
 ![strayqat_logo](https://github.com/pearcandy/strayqat/blob/master/img/logo.png?raw=true)
 
 Tools for quantum chemistry with quantum computer.  
-(licensed under the [GNU lv3 license](https://github.com/pearcandy/strayqat/blob/master/LICENSE)).
+(licensed under the [GPLv3 license](https://github.com/pearcandy/strayqat/blob/master/LICENSE)).
 
 #### Features
 - Variational Quantum Eigensolver
