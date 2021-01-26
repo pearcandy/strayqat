@@ -1,4 +1,4 @@
-{: align="center"}
+
 ![strayqat_logo](https://github.com/pearcandy/strayqat/blob/master/img/logo.png?raw=true)
 
 Tools for quantum chemistry with quantum computer.  
