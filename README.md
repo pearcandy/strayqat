@@ -3,18 +3,17 @@
 
 ### StrayQat
 
-StrayQat is a toolkit for quantum chemistry with quantum computer.
+tools for quantum chemistry with quantum computer.  
+(licensed under the [GNU lv3 license](https://github.com/pearcandy/strayqat/blob/master/LICENSE)).
 
-StrayQat is licensed under the [GNU lv3 license](https://github.com/pearcandy/strayqat/blob/master/LICENSE).
-
-#### Key Features
+##### Key Features
 - Variational Quantum Eigensolver
 - Post HF calculation via pySCF, openfermion
 - Quantum Gate calculation via qulacs
 
-#### Performance
+##### Performance
 
-#### Requirement
+##### Requirement
 - scipy < 1.5.x
 - numpy > 1.19.x
 - qulacs
@@ -22,14 +21,14 @@ StrayQat is licensed under the [GNU lv3 license](https://github.com/pearcandy/st
 - openfermion
 - openfermionpyscf
 
-#### Install
+##### Install
 ```
 git clone https://github.com/pearcandy/strayqat
 cd strayqat
 python setup.py install
 ```
 
-#### Uninstall
+##### Uninstall
 ```
 python setup.py install --record file.txt  
 cat file.txt | xargs rm -rvf
