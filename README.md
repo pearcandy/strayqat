@@ -19,10 +19,11 @@ Tools for quantum chemistry with quantum computer.
 - openfermion
 - openfermionpyscf
 
-#### Install
+#### Install 
 ```
-pip install https://github.com/pearcandy/strayqat
+pip install git+https://github.com/pearcandy/strayqat
 ```
+
 
 #### Uninstall
 ```
