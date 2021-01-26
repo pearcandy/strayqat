@@ -1,8 +1,6 @@
 
 ![strayqat_logo](https://github.com/pearcandy/strayqat/blob/master/img/logo.png?raw=true)
 
-### StrayQat
-
 Tools for quantum chemistry with quantum computer.  
 (licensed under the [GNU lv3 license](https://github.com/pearcandy/strayqat/blob/master/LICENSE)).
 
