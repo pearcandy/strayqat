@@ -4,7 +4,7 @@
 Tools for quantum chemistry with quantum computer.  
 (licensed under the [GNU lv3 license](https://github.com/pearcandy/strayqat/blob/master/LICENSE)).
 
-#### Key Features
+#### Features
 - Variational Quantum Eigensolver
 - Post HF calculation via pySCF, openfermion
 - Quantum Gate calculation via qulacs
