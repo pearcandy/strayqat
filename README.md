@@ -14,10 +14,10 @@ Tools for quantum chemistry with quantum computer.
 #### Requirement
 - scipy < 1.5.x
 - numpy > 1.18.x
-- qulacs
-- pyscf
-- openfermion
-- openfermionpyscf
+- qulacs == 0.2.0
+- pyscf  == 1.7.2
+- openfermion == 0.11.0
+- openfermionpyscf == 0.4
 
 #### Install 
 ```
