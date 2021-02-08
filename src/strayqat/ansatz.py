@@ -25,7 +25,7 @@ from scipy.sparse.linalg import eigs, eigsh
 
 class Ansatz():
     def __init__(self, ansatz_type, n_qubit, depth):
-        version = "0.1"
+        version = "0.2"
         self.ansatz_type = ansatz_type
         self.n_qubit = n_qubit
         self.depth = depth

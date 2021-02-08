@@ -15,7 +15,7 @@
 from __future__ import unicode_literals, division
 
 __author__ = "PearCandy"
-__version__ = "0.1"
+__version__ = "0.2"
 __maintainer__ = "PearCandy"
 __email__ = "y.nishi1980@gmail.com"
 __status__ = "Stable"
