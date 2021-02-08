@@ -25,8 +25,8 @@ import sys, os
 import numpy as np
 import matplotlib.pyplot as plt
 from openfermion.transforms import get_fermion_operator, jordan_wigner
-from openfermion.transforms import get_sparse_operator
-from openfermion.hamiltonians import MolecularData
+from openfermion.linalg import get_sparse_operator
+from openfermion import MolecularData
 from openfermionpyscf import run_pyscf, generate_molecular_hamiltonian
 from . import ansatz
 from scipy.optimize import minimize
