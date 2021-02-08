@@ -13,7 +13,7 @@ Tools for quantum chemistry with quantum computer.
 #### Performance
 
 #### Requirement
-- scipy > 1.5.x
+- scipy == 1.4.1
 - numpy > 1.18.x
 - qulacs == 0.2.0
 - pyscf  == 1.7.2
