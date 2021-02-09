@@ -19,7 +19,7 @@ __version__ = "0.2"
 __maintainer__ = "PearCandy"
 __email__ = "y.nishi1980@gmail.com"
 __status__ = "Stable"
-__date__ = "Jan 26, 2021"
+__date__ = "Feb 10, 2021"
 
 import sys, os
 import numpy as np
