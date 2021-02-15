@@ -6,13 +6,18 @@ Tools for quantum chemistry with quantum computer.
 
 #### Features
 - Variational Quantum Eigensolver
-![vqe_concept](https://github.com/pearcandy/strayqat/blob/master/img/VQE_concept.png?raw=true)
-
 - Post HF calculation via pySCF, openfermion
 - Quantum Gate calculation via qulacs
  
 
+#### VQE concept
+
+![vqe_concept](https://github.com/pearcandy/strayqat/blob/master/img/VQE_concept.png?raw=true)
+A. Peruzzo et al. , “A variational eigenvalue solver on a photonic quantum processor“ Nat. Commun. 5:4213 doi: 10.1038/ncomms5213 (2014)
+
 #### Performance
+
+-ground state energy of H2 molecular at various bonding length.
 
 ![strayqat_demo](https://github.com/pearcandy/strayqat/blob/master/img/demo_H2.png?raw=true)
 
