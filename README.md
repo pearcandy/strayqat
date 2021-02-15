@@ -6,11 +6,16 @@ Tools for quantum chemistry with quantum computer.
 
 #### Features
 - Variational Quantum Eigensolver
+![vqe_concept](https://github.com/pearcandy/strayqat/blob/master/img/VQE_concept.png?raw=true)
+
 - Post HF calculation via pySCF, openfermion
 - Quantum Gate calculation via qulacs
-- 
+ 
 
 #### Performance
+
+![strayqat_demo](https://github.com/pearcandy/strayqat/blob/master/img/demo_H2.png?raw=true)
+
 
 #### Requirement
 - scipy == 1.4.1
