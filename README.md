@@ -1,5 +1,5 @@
 
-![strayqat_logo](https://github.com/pearcandy/strayqat/blob/master/img/logo.png?raw=true)
+![strayqat_logo](https://github.com/pearcandy/strayqat/blob/master/img/strayqat_logo.png?raw=true)
 
 Tools for quantum chemistry with quantum computer.  
 (licensed under the [GPLv3 license](https://github.com/pearcandy/strayqat/blob/master/LICENSE)).
@@ -12,7 +12,7 @@ Tools for quantum chemistry with quantum computer.
 
 #### VQE concept
 
-![vqe_concept](https://github.com/pearcandy/strayqat/blob/master/img/vqe_concept.png?raw=true)
+![vqe_concept](https://github.com/pearcandy/strayqat/blob/master/img/VQE_concept.png?raw=true)
 
 > A. Peruzzo et al. , “A variational eigenvalue solver on a photonic quantum processor“ Nat. Commun. 5:4213 doi: 10.1038/ncomms5213 (2014)
 
@@ -20,7 +20,7 @@ Tools for quantum chemistry with quantum computer.
 
 - demo1: ground state energy of H2 molecular at various bonding length.
 
-![strayqat_demo](https://github.com/pearcandy/strayqat/blob/master/img/demo_H2.png?raw=true)
+![strayqat_demo](https://github.com/pearcandy/strayqat/blob/master/img/demo1.png?raw=true)
 
 
 #### Requirement
