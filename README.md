@@ -14,7 +14,7 @@ Tools for quantum chemistry with quantum computer.
 
 ![vqe_concept](https://github.com/pearcandy/strayqat/blob/master/img/VQE_concept.png?raw=true)
 
-A. Peruzzo et al. , “A variational eigenvalue solver on a photonic quantum processor“ Nat. Commun. 5:4213 doi: 10.1038/ncomms5213 (2014)
+> A. Peruzzo et al. , “A variational eigenvalue solver on a photonic quantum processor“ Nat. Commun. 5:4213 doi: 10.1038/ncomms5213 (2014)
 
 #### Performance
 
